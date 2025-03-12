@@ -1,4 +1,4 @@
-```
+```java
 import java.util.Scanner;
 
 public class BattleShip{
@@ -110,3 +110,4 @@ public class BattleShip{
 
     }
 }
+```
